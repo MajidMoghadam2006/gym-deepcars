@@ -9,6 +9,7 @@ pip install -r requirements.txt
 pip install -e .
 python DeepCars_test.py
 ```
+![DeepCars](gym_deepcars/envs/assets/DeepCars_Screen.png)
 
 Two versions are registered:
  
